@@ -1,0 +1,29 @@
+{
+  "name": "typescript00-hello",
+  "version": "1.0.0",
+  "description": "Simple Typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pxai/typescript00-hello"
+  },
+  "keywords": [
+    "typescript",
+    "sample",
+    "gulp"
+  ],
+  "author": "Pello Altadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxai/typescript00-hello/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.12.1",
+    "merge2": "^1.0.1",
+    "watch": "^0.17.1"
+  }
+}
