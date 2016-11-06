@@ -1,2 +1,2 @@
-
-console.log('Hello typescript');
+// Simplest TypeScript program.
+console.log('Hello TypeScript');
