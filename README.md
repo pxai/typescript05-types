@@ -21,7 +21,7 @@ gulp
 ## Running the samples:
 We can run them using node:
 ```
-node dist/js/hello.js
+node dist/hello.js
 ```
 
 ## About
